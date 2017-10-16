@@ -1,7 +1,5 @@
-![LIKEcash Logo](https://i.imgur.com/ovemJA3.png)
+![LIKEcash Logo](https://raw.githubusercontent.com/likecoin-dev/likecoin-src/master/src/qt/res/images/splash.png)
 
-[![Slack](https://slack.likecoin.me/badge.svg)](https://slack.likecoin.me/)
-[![Gitter](https://badges.gitter.im/likeproject/like.svg)](https://gitter.im/likeproject/like?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Build Status](https://travis-ci.org/likeproject/like.svg?branch=master)](https://travis-ci.org/likeproject/like) [![Code Climate](https://codeclimate.com/github/likeproject/like/badges/gpa.svg)](https://codeclimate.com/github/likeproject/like) [![Test Coverage](https://codeclimate.com/github/likeproject/like/badges/coverage.svg)](https://codeclimate.com/github/likeproject/like/coverage) 
 
 Introduction
 ===========================
